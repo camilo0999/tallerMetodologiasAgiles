@@ -1,0 +1,14 @@
+{
+    "camilo": {
+        "edad": "22",
+        "direcci\u00f3n": "viento libre",
+        "tel\u00e9fono": "318838482",
+        "correo electr\u00f3nico": "camilo@gmail.com"
+    },
+    "david": {
+        "edad": "22",
+        "direcci\u00f3n": "casa blanca",
+        "tel\u00e9fono": "425612313",
+        "correo electr\u00f3nico": "david@gmail.com"
+    }
+}
